@@ -1,4 +1,4 @@
-# Hi, I'm Preben 👋
+# About Me
 
 I'm a **Data Science student at the University of Stavanger (UiS)** with a background in Computer Engineering.
 
